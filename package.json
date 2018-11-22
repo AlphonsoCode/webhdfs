@@ -30,7 +30,7 @@
   ],
   "license": "MIT",
   "main": "lib/webhdfs.js",
-  "maintainers": [
+  "contributors": [
     {
       "name": "Tushar Gautam",
       "email": "tushar@alphonso.tv"
