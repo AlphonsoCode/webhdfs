@@ -36,7 +36,7 @@
       "email": "tushar@alphonso.tv"
     }
   ],
-  "name": "alph-webhdfs",
+  "name": "@alph/webhdfs",
   "optionalDependencies": {},
   "repository": {
     "type": "git",
